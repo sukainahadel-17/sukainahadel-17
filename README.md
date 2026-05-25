@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝╚══════╝   ╚═╝    ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-# Sukaina Hadel
+# Sukaina Al Talib
 ### Network Security Student · Defender in Training 🛡️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=600&lines=Network+Security+%26+Defense+%F0%9F%94%B5;Cisco+Networking+%7C+Cybersecurity+Student;Protecting+Networks+One+Packet+at+a+Time+%F0%9F%93%A1;Year+2+%7C+Open+to+Internship+Opportunities)](https://git.io/typing-svg)
@@ -21,12 +21,12 @@
 ## `$ cat /etc/sukaina/profile`
 
 ```yaml
-name        : Sukaina Hadel
-role        : Cybersecurity Student — Year 2
+name        : Sukaina Al Talib
+role        : Cybersecurity Student
 focus       : Network Security & Defense
 passion     : Understanding how networks work — and how to protect them
 location    : Saudi Arabia 🇸🇦
-goal        : Network Security Internship 2025
+goal        : Network Security Internship 
 status      : Actively building | Always learning
 ```
 
